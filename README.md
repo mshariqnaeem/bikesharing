@@ -1,6 +1,7 @@
 # Bikesharing Challenge
 
 The purpose of this challenge is to show our understanding of how to use Tableau to create worksheets and stories from analyzing data. These stories will help us in presenting findings in data analysis to non-technical professionals (stakeholders, project managers, retail team members etc.) without them needing the expertise of programming languages such as Python, SQL, or Javascript. Tableau is a very useful tool for creating visualizations from analyzing large datafiles.
+
 [link to dashboard](https://public.tableau.com/views/NYCChallenge/BikeshareStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Overview of Bikesharing Data
